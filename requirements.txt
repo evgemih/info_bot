@@ -1,0 +1,8 @@
+aiogram==3.3.0
+numpy
+torch
+typing_extensions
+collections
+razdel
+pathlib
+pydantic
